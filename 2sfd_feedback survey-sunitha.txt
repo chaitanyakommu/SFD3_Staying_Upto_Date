@@ -1,0 +1,20 @@
+My Action Plan 
+
+ 
+
+Which skill are you focusing on today? Why does this skill interest you? 
+
+The skill that I am focusing On today is CSS. This skill  that interests me is  the ability to apply designs and our own creativity to HTML files using css. 
+
+
+What resources will you use to learn this skill? 
+
+I  will be using code academy  and sometimes google to learn more if the topic is not clear . 
+
+
+How will you practise the skill and what will you do to implement your learning? 
+
+ I will practice the skill by doing all the activities in code academy and the projects. 
+
+I would try to implement  html and css by creating a small web page to know where I stand . 
+
